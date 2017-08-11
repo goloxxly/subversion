@@ -1,2 +1,2 @@
 # subversion
-Subversion server on CentOS
+Subversion server with Apache2 on Ubuntu
